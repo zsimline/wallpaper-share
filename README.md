@@ -1,2 +1,2 @@
 # wallpaper-share
-基于PHP的壁纸分享网站
+基于JavaWeb的壁纸分享网站
